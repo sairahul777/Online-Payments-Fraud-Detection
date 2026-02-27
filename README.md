@@ -29,14 +29,6 @@ Model Accuracy: ~99%
 
 ---
 
-## 🖥️ Application Screenshots
-
-#![Fraud Detection](./screenshots/fraud_result.png)
-![Legitimate Transaction](./screenshots/legitimate_result.png)
-
-
----
-
 ## ▶️ How to Run
 
 ```bash
